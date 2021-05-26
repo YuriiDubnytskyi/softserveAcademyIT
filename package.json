@@ -1,0 +1,23 @@
+{
+  "name": "softserveacademyit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriiDubnytskyi/softserveAcademyIT.git"
+  },
+  "author": "Yurii Dubnytskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriiDubnytskyi/softserveAcademyIT/issues"
+  },
+  "homepage": "https://github.com/YuriiDubnytskyi/softserveAcademyIT#readme",
+  "dependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.1"
+  }
+}
