@@ -33,5 +33,8 @@ describe('check lagrange function', () => {
     test('should for 68 return 1337', () => {
         expect(lagrange(68)).toBe("result 1337")
     });
+    test('should for 1 return false', () => {
+        expect(lagrange(1)).toBe(false)
+    });
 
 });
