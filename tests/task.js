@@ -35,9 +35,7 @@ function lagrange(n) {
                     z = k
                     t = p
                     temp = Math.pow(x, 2) + Math.pow(y, 2) + Math.pow(z, 2) + Math.pow(t, 2)
-                    
                     if (temp === n) {
-                        console.log(temp)
                         return `result ${x}${y}${z}${t}`
                     }
                 }
